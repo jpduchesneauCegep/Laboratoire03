@@ -18,7 +18,7 @@ Vous devez fournir sur Léa ou par un adresse d'un dépôt :
     - Votre dépôt doit contenir l'ensemble des fichiers nécessaires au projet.
     - Il doit égelement contenir un fichier .gitignore.
     
-- Le fichier docker-compose.yml qui est dans votre dépôt doit permettre de mettre en place l'environement WordPress avec ses services, ses volumes et son propre réseau virtuel.
+- Le fichier docker-compose.yml qui est dans votre dépôt doit permettre de mettre en place l'environement WordPress avec ses services, ses volumes (en bind mounting) et son propre réseau virtuel.
 - Bien-sur, vous devez aussi fournir les fichiers dockerfile nécessaire.
 - Une vidéo d'environ 5 mins (Maximum 10 mins) :
   - Explication de tous vos fichiers
