@@ -7,7 +7,7 @@ Volumes :
   www-data:
 
 networks:
-  develop :
-  production :
+  wordpress :
+  
 
 
