@@ -1,6 +1,16 @@
-version: '3.9'
+version: '3'
 
 Services :
+  ServeurWeb:
+    image:
+    command:
+    environnement:
+    volumes: 
+    port: 1234:80
+  ServeurBD:
+    image: mysql:latest
+  ServeurWorPress:
+    build: .
 
 Volumes :
   db-data : 
