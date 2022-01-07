@@ -13,11 +13,12 @@ Services :
     build: .
 
 Volumes :
-  db-data : 
+  db-data: 
   www-data:
+  wordpress:
 
-networks:
-  MonSiteWeb :
+networks :
+  MonSiteWeb:
   
 
 
