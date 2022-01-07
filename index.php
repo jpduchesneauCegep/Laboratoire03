@@ -9,6 +9,8 @@
     <script src='main.js'></script>
 </head>
 <body>
+    <h1>Site web pour le laboratoire 3 - ITV</h1>
+    <h2>Auteur : Jean-Pierre Duchesneau</h2>
     
 </body>
 </html>

@@ -3,7 +3,7 @@
 $git init
 $git commit -am "Commit initiale"
 $git branch develop
-$git branch -b Docker-Compose
+$git branch Docker-Compose
 ou 
 $git switch -c <nouvelle-branch>
 $ etc
@@ -30,7 +30,7 @@ $git log --online --decorate <branche>
 $git log --online --decorate all
 
 # Utiliser les Tag 
-git tag -a v1.0 -m "Message du tag"
-git tag -a v1.2 <idCommit> # Tagger un commit existant
+git tag -a v0.1.0-alpha -m "Message du tag"
+git tag -a v0.1.1-beta <idCommit> # Tagger un commit existant
 git tag -l
 ```

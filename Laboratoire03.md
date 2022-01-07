@@ -6,7 +6,7 @@
      - Nginx avec le site Web racine
      - WordPress 
      - MySQL
-  - Le site Web doit avoir une page index.html situé à la racine de votre serveur Web (localhost:2022). Cette page doit présenter votre équipe et avoir un lien vers le site WordPress qui est situé à l'URL suivant : wordpress/index.html
+  - Le site Web doit avoir une page index.php situé à la racine de votre serveur Web (localhost:2022). Cette page doit présenter votre équipe et avoir un lien vers le site WordPress qui est situé à l'URL suivant : wordpress/index.php
 
 - Le laboratoire s'effectue en groupe de 2.
 
